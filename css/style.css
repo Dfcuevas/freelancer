@@ -23,6 +23,10 @@ body {
 h1,h2,h3,h4 {
   margin: 0;
 }
+h1{
+  margin-bottom: 3rem;
+  color: var(--primario);
+}
 h2, h3 {
   text-align: center;
 }
