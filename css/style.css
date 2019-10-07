@@ -201,6 +201,7 @@ form legend {
 .campo input {
   flex: 1;
   height: 4rem;
+  font-size: 1.2rem;
 }
 .campo textarea {
   flex: 1;
